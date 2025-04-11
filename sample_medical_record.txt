@@ -1,0 +1,68 @@
+Patient Medical Record
+Date: 2024-04-09
+
+Patient Information:
+Name: John Doe
+Age: 52
+Gender: Male
+
+Medical History:
+- Hypertension (diagnosed 2018)
+- Type 2 Diabetes (diagnosed 2020)
+- Coronary Artery Disease (diagnosed 2022)
+- Sleep Apnea (diagnosed 2021)
+- Anxiety (diagnosed 2019)
+- Osteoarthritis in knees (diagnosed 2023)
+- Family history of heart disease and breast cancer
+
+Current Medications:
+- Lisinopril 20mg daily (for hypertension)
+- Metformin 1000mg twice daily (for diabetes)
+- Aspirin 81mg daily
+- Atorvastatin 40mg daily (for cholesterol)
+- CPAP therapy for sleep apnea
+- Sertraline 50mg daily (for anxiety)
+
+Lab Results (Latest):
+Glucose: 135 mg/dL
+HbA1c: 7.2%
+Cholesterol (Total): 245 mg/dL
+HDL: 42 mg/dL
+LDL: 155 mg/dL
+Triglycerides: 190 mg/dL
+Blood Pressure: 142/88 mmHg
+Creatinine: 1.3 mg/dL
+ALT: 45 U/L
+AST: 42 U/L
+Vitamin D: 22 ng/mL
+TSH: 3.8 mIU/L
+
+Current Symptoms:
+- Occasional chest discomfort during exercise
+- Morning joint stiffness
+- Fatigue
+- Difficulty sleeping
+- Shortness of breath during physical activity
+- Occasional anxiety episodes
+
+Lifestyle Factors:
+- Former smoker (quit 2 years ago)
+- Sedentary job (office work)
+- Moderate exercise (walking 20 minutes daily)
+- BMI: 29.5 (overweight)
+- Alcohol consumption: 2-3 drinks per week
+- High-stress work environment
+
+Recent Changes:
+- Started using CPAP machine for sleep apnea
+- Joined a gym (attending twice weekly)
+- Following Mediterranean diet
+- Practicing stress management techniques
+- Regular blood sugar monitoring
+- Attending cardiac rehabilitation program
+
+Family History:
+- Father: Heart attack at age 60
+- Mother: Type 2 diabetes, breast cancer
+- Sister: Hypertension
+- Maternal grandmother: Stroke at age 72 
